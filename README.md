@@ -9,7 +9,7 @@ Minimal desktop UI using *Rainmeter* and *WinLaunch* software.
 * [WinLaunch](http://winlaunch.org/)
 * [Raleway Font](https://www.fontsquirrel.com/fonts/raleway)
 * [Drag&Drop Plugin](https://github.com/TheAzack9/Drag-Drop)
-* [MinimalOne Weather](mistrjosh.deviantart.com)
+* [MinimalOne Weather](https://mistrjosh.deviantart.com)
 
 
 
@@ -29,7 +29,7 @@ An attempt at elegant button and text UI design
 * Weather - Current temperature, location & weather stats
 
 ####Colour Palette
-The three tone colour scheme inspired by the Siberian tiger:
+Three tone colour scheme inspired by the Siberian tiger:
 
 
 ![Colour Palette](http://i.imgur.com/vygFYip.png)
