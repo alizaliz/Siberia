@@ -39,4 +39,4 @@ Three tone colour scheme inspired by the Siberian tiger:
 ![Colour Palette](http://i.imgur.com/vygFYip.png)
 Preview
 -------
-![Preview](http://pre03.deviantart.net/c29d/th/pre/f/2016/229/7/5/siberia_1_0_0_by_zainja-dae8oeu.png)
+![Preview](http://i.imgur.com/3GH56ho.jpg)
